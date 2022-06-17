@@ -1,0 +1,4 @@
+baseURL = 'http://brandtest.github.io/'
+languageCode = 'en-us'
+title = 'My hugo branding test'
+theme = 'contrast-hugo'
